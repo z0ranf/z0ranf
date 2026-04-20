@@ -26,12 +26,11 @@ I love Frutiger Aero era in design, as well as skeumorphism. It really gives spe
 
 Something more about me:
 - Pronouns: he/him/his
-- Age: 14
 - Loves: animals, software, plants
 - Hates: Apple, Microsoft, Google, automod
 
 Here are some stats about my account below: 
 
-![ZoranJeremic's Stats](https://github-readme-stats.vercel.app/api?username=ZoranJeremic&theme=default&show_icons=true&hide_border=true&count_private=true)
-![ZoranJeremic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoranJeremic&theme=default&show_icons=true&hide_border=true&layout=compact)
-![ZoranJeremic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZoranJeremic&theme=default&hide_border=true)
+![ZoranJeremic's Stats](https://github-readme-stats.vercel.app/api?username=zoran-flake&theme=default&show_icons=true&hide_border=true&count_private=true)
+![ZoranJeremic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoran-flake&theme=default&show_icons=true&hide_border=true&layout=compact)
+![ZoranJeremic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zoran-flake&theme=default&hide_border=true)
