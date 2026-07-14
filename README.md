@@ -31,6 +31,8 @@ Something more about me:
 
 Here are some stats about my account below: 
 
-![ZoranJeremic's Stats](https://github-readme-stats.vercel.app/api?username=z0ranf&theme=default&show_icons=true&hide_border=true&count_private=true)
-![ZoranJeremic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z0franf&theme=default&show_icons=true&hide_border=true&layout=compact)
-![ZoranJeremic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=z0ranf&theme=default&hide_border=true)
+![z0ranf's Stats](https://github-readme-stats.vercel.app/api?username=z0ranf&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![z0ranf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z0franf&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+![z0ranf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=z0ranf&theme=default&hide_border=true)
