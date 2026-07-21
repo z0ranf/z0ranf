@@ -28,9 +28,3 @@ Something more about me:
 - Pronouns: he/him/his
 - Loves: animals, software, plants
 - Hates: Apple, Microsoft, Google, automod
-
-Here are some stats about my account below: 
-
-[![z0ranf's GitHub stats](https://github-readme-stats-git-masterstatichearted.vercel.app/api?username=z0ranf&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/z0ranf)
-
-[![Top Languages](https://github-readme-stats-git-masterstatichearted.vercel.app/api/top-langs/?username=z0ranf&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=10)](https://github.com/z0ranf)
